@@ -1,4 +1,4 @@
-<img src="https://github.com/kkamara/useful/blob/main/kotlin-bmi-calculator-mobile-app.png?raw=true" alt="kotlin-bmi-calculator-mobile-app.png" width=""/>
+<img src="https://github.com/kkamara/useful/blob/main/kotlin-clap-app-mobile-app.png?raw=true" alt="kotlin-clap-app-mobile-app.png" width=""/>
 
 # Kotlin Clap App Mobile App
 
