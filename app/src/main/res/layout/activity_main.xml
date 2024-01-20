@@ -20,7 +20,7 @@
         app:srcCompat="@drawable/clap" />
 
     <SeekBar
-        android:id="@+id/seekBar"
+        android:id="@+id/sbClapping"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -29,7 +29,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/tvPlay"
+        android:id="@+id/tvPlayed"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
